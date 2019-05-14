@@ -1,0 +1,10 @@
+# Site settings
+title: PoolC 회칙
+tag_text: PoolC
+description: 연세대학교 공학대학 프로그래밍 학술동아리 PoolC의 회칙입니다.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
