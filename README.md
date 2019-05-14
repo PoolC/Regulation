@@ -17,3 +17,7 @@
 
 - `bundle install`
 - `bundle exec jekyll serve`
+
+## 관리
+
+- 이 레포는 오직 Pull-Request와 Review가 있어야만 업데이트가 
